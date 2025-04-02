@@ -1,2 +1,1 @@
-# GoTemplate
-Template for Golang Projects
+# __EXECUTABLE__
